@@ -1,0 +1,9 @@
+MAJOR
+Implement a UI design similar to instagram, with working share buttons. Potentially a good way to get familiar again with bootstrap or learn
+Tailwind
+
+__MINOR__
+A bug where some of the images are actually youtube links. Fix is just redoing the API call when a video link is found.
+
+
+Maybe eventually add an easter egg to it for fun :)
