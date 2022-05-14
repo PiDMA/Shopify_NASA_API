@@ -1,5 +1,30 @@
 body{
     font-family: sans-serif;
+    text-align: center;
+    background-color: black;
+    color: darkgray;
+}
+
+#begin{
+    background-color: rgba(184, 174, 164, 9.5);
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 20%;
+}
+
+#begin:hover{
+    background-color: grey;     
+}
+
+#begin:active{
+    box-shadow: 0 3px #666;
+    transform: translateY(4px);
 }
 
 .container{
